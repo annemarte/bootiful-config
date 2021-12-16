@@ -1,11 +1,1 @@
-server:
-  port: 8888
-
 message: Hello World!
-
-spring:
-  cloud:
-    config:
-      server:
-        git:
-          uri: git@github.com:annemarte/bootiful-config.git
