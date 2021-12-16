@@ -1,0 +1,2 @@
+# bootiful-config
+Test config
